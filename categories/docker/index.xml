@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Seqvence</title>
+    <link>http://seqvence.com/categories/docker/</link>
+    <description>Recent content in Docker on Seqvence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 May 2016 08:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://seqvence.com/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Good things come in small &#34;containers&#34;: Ingredients for a successful birthday party</title>
+      <link>http://seqvence.com/post/good-things-come-in-small-containers/</link>
+      <pubDate>Fri, 20 May 2016 08:00:00 +0200</pubDate>
+      
+      <guid>http://seqvence.com/post/good-things-come-in-small-containers/</guid>
+      <description>&lt;p&gt;For Docker’s 3rd birthday, the Docker team decided to organize a challenge to teach people Docker, and hopefully have some fun at the same time. It was a great event, with over 1180 people completing the assignment participating in 220 locations around the world.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
