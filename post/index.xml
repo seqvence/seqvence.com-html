@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Seqvence</title>
+    <title>Posts on Seqvence</title>
     <link>http://seqvence.com/post/</link>
-    <description>Recent content in Blog on Seqvence</description>
+    <description>Recent content in Posts on Seqvence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Aug 2016 12:36:09 +0200</lastBuildDate><atom:link href="http://seqvence.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2016 08:00:00 +0200</lastBuildDate><atom:link href="http://seqvence.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Good things come in small &#34;containers&#34;: Ingredients for a successful birthday party</title>
       <link>http://seqvence.com/post/good-things-come-in-small-containers/</link>
