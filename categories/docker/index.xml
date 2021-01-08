@@ -6,11 +6,7 @@
     <description>Recent content in Docker on Seqvence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2016 08:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="http://seqvence.com/categories/docker/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 20 May 2016 08:00:00 +0200</lastBuildDate><atom:link href="http://seqvence.com/categories/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Good things come in small &#34;containers&#34;: Ingredients for a successful birthday party</title>
       <link>http://seqvence.com/post/good-things-come-in-small-containers/</link>
